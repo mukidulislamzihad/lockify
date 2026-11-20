@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppLock" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/lockify_bg</item>
+        <item name="colorAccent">#22D3EE</item>
+        <item name="colorPrimary">#2F7BFF</item>
+        <item name="android:statusBarColor">@color/lockify_bg</item>
+        <item name="android:navigationBarColor">@color/lockify_bg</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#8FA0CC</item>
+    </style>
+</resources>
