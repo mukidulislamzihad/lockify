@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="140" alt="Lockify logo">
+</p>
+
 ### 📥 [Download the latest APK](https://github.com/mukidulislamzihad/lockify/releases/latest/download/Lockify.apk)
 
 # 🔒 Lockify
