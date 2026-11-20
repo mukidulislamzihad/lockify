@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Lockify</string>
-    <string name="service_desc">Detects when a locked app is opened and asks for your PIN, pattern or fingerprint. World\'s safest and ads-free app lock.</string>
-</resources>
